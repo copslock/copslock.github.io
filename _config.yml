@@ -3,16 +3,10 @@ gems:
 highlighter: rouge
 markdown: kramdown
 permalink: /:title/
-url: http://sdr-x.github.io
-name: SDR-X
-author: "Jiao Xianjun"
-qq: 
-email: putaoshu@gmail.com
-duoshuo: jxj
-beian: 
-cnzz: 
-weibo: spaceshuttle
-github: JiaoXianjun
+url: http://copslock.github.io
+name: Embedded-World
+author: "CopsLock"
+github: copslock
 safe: true
 paginate: 20
-about: "Jiao Xianjun's tech blog."
+about: "Blog for misc discover."

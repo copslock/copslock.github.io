@@ -1,22 +1,12 @@
 ---
-title: Jiao Xianjun (BH1RXH)'s tech blog - About/关于
+title:  Embedeed World - About/关于
 layout: page
 comments: no
 ---
 
 {{ site.about }}
 
-Paper track: [https://www.researchgate.net/profile/Xianjun_Jiao?ev=hdr_xprf](https://www.researchgate.net/profile/Xianjun_Jiao?ev=hdr_xprf)
-
-Career track Linkedin [putaoshu@gmail.com](mailto:putaoshu@gmail.com)
-
-----
-
-[{{ site.email }}](mailto:{{ site.email }}) @ facebook;
-
-jxjputaoshu @ twitter;
-
-jxj @ newsmth.net;
+Contact me at http://bbs.mydigit.cn/u.php?uid=1749892
 
 ----
 
